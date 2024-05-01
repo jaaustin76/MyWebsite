@@ -16,4 +16,4 @@ function fetchAndDisplayRSS(url) {
 }
 
 // Call the function with your WordPress RSS feed URL
-fetchAndDisplayRSS('https://yourblogdomain.com/feed/');
+fetchAndDisplayRSS('https://jordancodesai.wordpress.com/2024/05/01/7/');
